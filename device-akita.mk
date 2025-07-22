@@ -394,7 +394,7 @@ PRODUCT_SYSTEM_PROPERTIES += \
     persist.settings.large_screen_opt.enabled=false
 
 PRODUCT_NO_BIONIC_PAGE_SIZE_MACRO := true
-PRODUCT_CHECK_PREBUILT_MAX_PAGE_SIZE := true
+PRODUCT_CHECK_PREBUILT_MAX_PAGE_SIZE := false
 
 # Bluetooth device id
 # Akita: 0x410F
